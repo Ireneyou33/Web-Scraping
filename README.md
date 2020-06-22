@@ -12,4 +12,4 @@ selenium
 <br> requests
 
 ## Reference
-Singhal, Gaurav. "Extracting data from HTML with BeautifulSoup". *Pluralsight* Dec19, 2019.
+Singhal, Gaurav. "Extracting data from HTML with BeautifulSoup". *Pluralsight* Dec19, 2019. Retrieved from: https://www.pluralsight.com/guides/extracting-data-html-beautifulsoup
