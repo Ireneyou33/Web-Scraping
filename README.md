@@ -5,6 +5,9 @@ Extract information from websites using Python and output to a csv file.
 
 *  Ottawa Web Scraping.ipyn: Extract COVID-19 related volunteer opportunities in Ottawa. Including: Position, Location, Description, Organization, Deadline, Websites.
 
+*  Totonto Web Scraping All.ipyn: Extract all volunteer opportunities in GTA area. Including: Position, Location, Primary Category, Organization, Date posted, Websites, Description.
+
+*  Ottawa Web Scraping All.ipyn: Extract all volunteer opportunities in Ottawa. Including: Position, Location, Description, Organization, Deadline, Websites.
 
 ## Used packages
 selenium
